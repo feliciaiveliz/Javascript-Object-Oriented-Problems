@@ -1,0 +1,1 @@
+All the exercises for the 225 section of the front-end portion of the core curriculum. These problems are all written in Object Oriented Javascript. 
